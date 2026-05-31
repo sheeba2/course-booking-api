@@ -1,4 +1,3 @@
-# course-booking-api
 # Course Booking API
 
 ##  Project Overview
